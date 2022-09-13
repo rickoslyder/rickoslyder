@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickoslyder
 - 👀 I’m interested in all things tech & automation related - particularly web & blockchain development
 - 🌱 I’m currently learning Python, Solidity & Javascript
-- 📚 I'm following the [1 Year Master Everything curriculum](https://zerotomastery.io/career-paths/1-year-master-everything-curriculum/)
+- 📚 I'm following the [ZTM 1 Year Master Everything curriculum](https://zerotomastery.io/career-paths/1-year-master-everything-curriculum/) - wish me luck!
 - 💞️ I’m looking to collaborate on any and all DeFi/web3 projects
 - 📫 How to reach me ...
 
